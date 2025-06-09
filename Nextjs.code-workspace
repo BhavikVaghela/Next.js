@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "Nextjs"
+		},
+		{
+			"name": "Nextjs",
+			"path": "../Nextjs"
+		}
+	],
+	"settings": {}
+}
